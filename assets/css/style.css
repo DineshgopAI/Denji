@@ -156,11 +156,7 @@ ul li a:hover {
    the piece apart. This renders it as a short centered mark
    instead: a breath, not a wall. */
 .content hr {
-    border: none;
-    height: 1px;
-    width: 48px;
-    margin: 48px auto;
-    background: #d8ccbc;
+    display: none;
 }
 
 .content blockquote {
