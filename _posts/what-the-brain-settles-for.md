@@ -2,6 +2,7 @@
 layout: post
 title: "What the Brain Settles For"
 date: 2026-08-24
+description: "Notes on scarcity, attention, and what the brain settles for when it doesn't get what it wants."
 ---
 
 # What the Brain Settles For
