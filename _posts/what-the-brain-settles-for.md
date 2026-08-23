@@ -23,8 +23,6 @@ But over time, surprisingly to me, the flaws didn't stop me from falling for her
 
 I was drawn to her imperfections. Maybe because I only wanted to see those imperfections. The rest didn't matter much.
 
----
-
 Indoors. Night. Walking.
 
 She always told me about her problems. I was just a listening machine. Heavy secrets. Shameful ones too. I looked away when I told mine like it didn't bother me. But it did bother me.
@@ -32,8 +30,6 @@ She always told me about her problems. I was just a listening machine. Heavy sec
 With enough time and attention she gave, I thought this would work.
 
 Time and stable attention, that's really my kryptonite.
-
----
 
 It was night where we usually walked.
 
@@ -54,8 +50,6 @@ Repeating the same lines over and over. Out of words.
 My friends, niggas gave me the courage. And I just burst.
 
 Heart started pounding. Stomach felt like I was about to give a hard exam where even knowing the answers, anxiety kills it.
-
----
 
 She rejected me gently.
 
@@ -92,8 +86,6 @@ I think it through and the dots connect. Someone the brain rates a 6/10 on looks
 Inferior species are the result of scarce resources. Ha that actually makes sense.
 
 I was just trying to make sense of why I still wanted her.
-
----
 
 **But you hurt yourself in the adapting.**
 
