@@ -1,0 +1,2 @@
+# Denji
+Raw thoughts
