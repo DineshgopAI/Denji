@@ -8,14 +8,10 @@ description: "Notes on scarcity, attention, and what the brain settles for when 
 # What the Brain Settles For
 *— 5 More Minutes*
 
-
-
 **what am I attached to?**
 **what do I want from her?**
 
 Never have I ever questioned that. Because questioning kills the joy.
-
-
 
 I felt sympathy. Joy. And then I observed the flaws.
 
@@ -27,7 +23,7 @@ But over time, surprisingly to me, the flaws didn't stop me from falling for her
 
 I was drawn to her imperfections. Maybe because I only wanted to see those imperfections. The rest didn't matter much.
 
-
+---
 
 Indoors. Night. Walking.
 
@@ -37,7 +33,7 @@ With enough time and attention she gave, I thought this would work.
 
 Time and stable attention, that's really my kryptonite.
 
-
+---
 
 It was night where we usually walked.
 
@@ -51,7 +47,9 @@ I grabbed her hand. It was cold. My hands started shaking.
 
 *"Please. 5 more minutes. I'm gonna tell."*
 
-My voice cracked. Repeating the same lines over and over. Out of words.
+My voice cracked.
+
+Repeating the same lines over and over. Out of words.
 
 My friends, niggas gave me the courage. And I just burst.
 
@@ -59,7 +57,7 @@ Heart started pounding. Stomach felt like I was about to give a hard exam where 
 
 And I gave a shaky hand. Never able to look straight, close into her eyes.
 
-
+---
 
 She rejected me gently.
 
@@ -71,6 +69,7 @@ Still craving that attention made me weak over time. Remove the attention, and w
 
 How to escape this? Work, I guess.
 
+---
 
 And that's when my brain started searching for reasons.
 
@@ -94,6 +93,7 @@ Inferior species are the result of scarce resources. Ha that actually makes sens
 
 I was just trying to make sense of why I still wanted her.
 
+---
 
 **But you hurt yourself in the adapting.**
 
