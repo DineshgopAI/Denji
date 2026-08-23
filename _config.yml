@@ -3,3 +3,27 @@ description: Raw thoughts on the brain, rejection, and what settles.
 author: Denji
 baseurl: "/Denji"
 url: "https://DineshgorpAI.github.io"
+title: Dinesh
+tagline: Notes on human behavior, systems, and self-reflection.
+description: "Notes on scarcity, attention, and what the brain settles for when it doesn't get what it wants."
+url: "https://dineshgopai.github.io"
+baseurl: "/Denji"
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      toc: true
