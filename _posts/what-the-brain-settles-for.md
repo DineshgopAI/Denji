@@ -42,7 +42,7 @@ And that's when my brain started searching for reasons.
 
 *How does the brain evaluate a thing or situation?*
 
-A case: sees a random girl, in real time the brain automatically evaluates that as "Ahh, she is hot." The brain naturally tends to do things that it finds joy in. There is a reward system it follows, and if you exploit that system, you have control over it. This system controls the emotions.
+Take a case: seeing a random girl, in real time the brain automatically evaluates that as 'Ahh, she is hot.' The brain naturally tends to do things that it finds joy in. There is a reward system it follows, and if you exploit that system, you have control over it. This system controls the emotions.
 
 *Does starvation create value? What does a body actually need? Water. Food. Why? Energy. To go get more water and food. But if those were supplied effortlessly, what comes next? Sex is the ultimate. Yet with unlimited access, would the body even crave it? I guess not. Once you get what you wanted, the value factor drops or shifts to something else.*
 
