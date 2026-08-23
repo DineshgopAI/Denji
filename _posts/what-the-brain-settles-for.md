@@ -55,13 +55,13 @@ My friends, niggas gave me the courage. And I just burst.
 
 Heart started pounding. Stomach felt like I was about to give a hard exam where even knowing the answers, anxiety kills it.
 
-And I gave a shaky hand. Never able to look straight, close into her eyes.
-
 ---
 
 She rejected me gently.
 
 Her face hid the emotion. Smiled gently. Tired reasoning with me. The moment she started reasoning, my brain went blank *what did I even do?*
+
+And I gave a shaky hand. Never able to look straight, close into her eyes.
 
 But I never let the *what ifs* win this time. I still stood.
 
