@@ -12,7 +12,7 @@ description: "Notes on scarcity, attention, and what the brain settles for when 
 
 Never have I ever questioned that. Because questioning kills the joy.
 
-I felt sympathy. Joy. And then I observed the flaws. She was shorter than me. Eyes that weren't black, something different, something I couldn't name. Light sometimes. Sharp sometimes. The way she spoke about others, taking them for granted without noticing. The way she carried herself like no one understood her, like that made her special. She had enough attention. She didn't have that problem. So many flaws. Enough to make me pause, initially.
+I felt sympathy. Joy. And then I observed the flaws. She was shorter than me. Eyes that weren't black, something different, something I couldn't name. Light sometimes. Sharp sometimes. The way she spoke about others, taking them for granted without noticing. The way she carried herself like no one understood her, like that made her special. She had enough attention. She didn't have that problem. So many flaws. Enough to make me puke, initially.
 
 But over time, surprisingly to me, the flaws didn't stop me from falling for her. I was drawn to her imperfections. Maybe because I only wanted to see those imperfections. The rest didn't matter much.
 
