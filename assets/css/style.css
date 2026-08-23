@@ -150,11 +150,7 @@ ul li a:hover {
     color: #2c2418;
 }
 
-/* --- SCENE BREAKS ---
-   Was a full-width <hr> band with 44px margin — on a cream page,
-   six of those in one post reads as blank white stripes cutting
-   the piece apart. This renders it as a short centered mark
-   instead: a breath, not a wall. */
+/* --- HIDE ALL HR LINES (Scene Breaks) --- */
 .content hr {
     display: none;
 }
