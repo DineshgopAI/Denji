@@ -17,7 +17,7 @@ I felt sympathy. Joy. And then I observed the flaws. She was shorter than me. Ey
 
 But over time, surprisingly to me, the flaws didn't stop me from falling for her. I was drawn to her imperfections. Maybe because I only wanted to see those imperfections. The rest didn't matter much.
 
-Indoors. Night. Walking.
+Somewhere quiet. Late.
 
 She always told me about her problems. I was just a listening machine. Heavy secrets. Shameful ones too. I looked away when I told mine like it didn't bother me. But it did bother me. With enough time and attention she gave, I thought this would work. Time and stable attention, that's really my kryptonite.
 
