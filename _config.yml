@@ -2,6 +2,7 @@ title: Dinesh
 tagline: Notes on human behavior, systems, and self-reflection.
 description: "Notes on scarcity, attention, and what the brain settles for when it doesn't get what it wants."
 author: Dinesh
+
 url: "https://dineshgopai.github.io"
 baseurl: "/Denji"
 
@@ -12,6 +13,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 markdown: kramdown
 highlighter: rouge
