@@ -6,7 +6,7 @@ description: "Notes on scarcity, attention, and what the brain settles for when 
 ---
 
 # What the Brain Settles For
-*— 5 More Minutes*
+*5 More Minutes*
 
 *what am I attached to?*  
 *what do I want from her?*
