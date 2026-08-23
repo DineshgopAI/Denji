@@ -52,9 +52,13 @@ When someone craves attention early and gets only minimal attention, the brain m
 
 The brain is a reasoning machine. It reasons something inferior into "okay," given enough time and scarcity of what it originally wanted.
 
+Now why does the brain tend to settle for things below the standard the system created? Given enough time, watching or having anything even if it's not good makes the brain settle for whatever is available. Just like the body: if you provide enough food, it's fine. But shortage forces it into survival mode, where it has to use whatever resources are left. If you're born in a town and suddenly forced to live in a jungle, you try to survive on whatever is there, even insects and worms. 
+
+The same rule applies to emotional starvation. After a long time of not finding someone truly beautiful or sharp, the brain settles for whatever is in front of it the equivalent of insects. That's what happened in my case. It might have been an insect initially, but when nothing else was there, I tried to survive on it.
+
 The brain is an adaptation machine.
 
-I think it through and the dots connect. Someone the brain rates a 6/10 on looks alone and with factors like the anger, the mood swings, the attitude and she's really a 4. Starved enough, those attributes go quiet, and you adapt anyway, trying to make it work.
+I think through it and the dots connect. Someone the brain rates a 6/10 on looks alone, but with the anger, the mood swings, and the attitude, she's really a 4. Starved enough, those attributes go quiet, and you adapt anyway, trying to make it work.
 
 Inferior species are the result of scarce resources. Ha that actually makes sense.
 
